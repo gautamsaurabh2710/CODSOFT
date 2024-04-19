@@ -1,0 +1,151 @@
+/* Reset margins and padding for all elements */
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style for the body element */
+  body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  /* Style for the header element */
+  header {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Style for the h1 element inside the header */
+  header h1 {
+    color: #fff;
+    font-size: 2.5em;
+  }
+  
+  /* Style for the p element inside the header */
+  header p {
+    color: #fff;
+    font-size: 1.2em;
+  }
+  
+  /* Style for the section element with id "about" */
+  #about {
+    background-color: #f4f4f4;
+    padding: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the img element inside the section with id "about" */
+  #about img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the section element with id "skills" */
+  #skills {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the h2 element inside the section with id "skills" */
+  #skills h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the li element inside the section with id "skills" */
+  #skills li {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the section element with id "projects" */
+  #projects {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the h2 element inside the section with id "projects" */
+  #projects h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the project class */
+  .project {
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the img element inside the project class */
+  .project img {
+    width: 10%;
+    height: 10%;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the h3 element inside the project class */
+  .project h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the p element inside the project class */
+  .project p {
+    font-size: 1em;
+  }
+  
+  /* Style for the section element with id "resume" */
+  #resume {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the h2 element inside the section with id "resume" */
+  #resume h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the a element inside the section with id "resume" */
+  #resume a {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the section element with id "contact" */
+  #contact {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the h2 element inside the section with id "contact" */
+  #contact h2 {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the p element inside the section with id "contact" */
+  #contact p {
+    margin-bottom: 10px;
+  }
+  
+  /* Style for the footer element */
+  footer {
+    background-color: #4CAF50;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+  }
